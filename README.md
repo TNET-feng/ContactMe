@@ -2,7 +2,7 @@
 
 ##  E-mail
 
-[DingTalk Email](mailto:lbfliubaofeng@dingtalk.com)
+[DingTalk Email_Priority](mailto:lbfliubaofeng@dingtalk.com)
 
 
 [Microsoft Outlook](mailto:lbfliubaofeng@outlook.com)
@@ -18,7 +18,7 @@
 | :---------: | :-----: |
 | WeChat | dadatomo |
 | QQ | 2982113910 |
-
+| DingTalk | lbfliubaofeng |
 
 ## Issue
 
