@@ -14,8 +14,8 @@
 ## Social Media 
 
 
-| 应用 | 账号 |
-| ---- | ---- |
+| Application | Account |
+| :---------: | :-----: |
 | WeChat | dadatomo |
 | QQ | 2982113910 |
 
