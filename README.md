@@ -1,5 +1,6 @@
 # Contact Me
 ___
+<p align="center">Hello!👋👋👋</p>
 
 ## Social Media(Priority)
 | Application | Account | Remark |
