@@ -25,5 +25,7 @@
 
 [GitHub Issue](https://github.com/TNET-feng/ContactMe/issues)
 
+[Atomgit_Gitcode Issue](https://atomgit.com/TNET_feng/ContactMe/issues)
+
 
 
