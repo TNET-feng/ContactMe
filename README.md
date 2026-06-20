@@ -2,8 +2,7 @@
 
 
 
-## Social Media 
-
+## Social Media  <<Priority
 
 | Application | Account | Remark |
 | :---------: | :-----: | :-----: |
@@ -23,7 +22,7 @@
 [Google Gmail](mailto:lbfliubaofeng@gmail)  <<No Priority
 
 
-## Issue
+## Issue  <<No Priority
 
 [GitHub Issue](https://github.com/TNET-feng/ContactMe/issues)
 
