@@ -9,7 +9,7 @@ ___
 
 ---
 
-## Social Media <<<Priority
+## Social Media <<<<Priority
 | Application | Account_1 | Account_2 | Remark |
 | :---------: | :-------: | :-------: | :----: |
 | WeChat      | dadatomo |            | Priority |
@@ -21,13 +21,14 @@ ___
 [^3]:It is the same account as @2302_76189356
 
 ##  E-mail
-[DingTalk Email](mailto:lbfliubaofeng@dingtalk.com)  <<Priority
+[DingTalk Email](mailto:lbfliubaofeng@dingtalk.com)
+<<<<Priority
 
 [Microsoft Outlook](mailto:lbfliubaofeng@outlook.com)
 
 [NetEase 163](mailto:lbfliubaofeng@163.com)
 
-[Google Gmail](mailto:lbfliubaofeng@gmail)  <<No Priority
+[Google Gmail](mailto:lbfliubaofeng@gmail) <<<<No Priority
 
 
 
