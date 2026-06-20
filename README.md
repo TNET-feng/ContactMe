@@ -10,12 +10,12 @@ ___
 ---
 
 ## Social Media(Priority)
-| Application | Account | Remark |
-| :---------: | :-----: | :-----: |
-| WeChat | dadatomo | Priority |
-| QQ | 2982113910 | |
-| DingTalk | lbfliubaofeng | |
-| CSDN[^2] | @2302_76189356 | No Priority |
+| Application | Account_1 | Account_2 | Remark |
+| :---------: | :-------: | :-------: | :----: |
+| WeChat      | dadatomo |            | Priority |
+| QQ          | 2982113910 | 2088128130 |          |
+| DingTalk | lbfliubaofeng |         |         |
+| CSDN[^2] | @2302_76189356 | TNET-峰 | No Priority |
 
 [^2]:Chinese Software Developer Network
 
