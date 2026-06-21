@@ -1,4 +1,4 @@
-# Contact Me
+# <p align="center">Contact Me</p>
 ___
 <p align="center">Hello!👋👋👋</p>
 <p align="center">You can contact me through the following ways😘😘</p>
