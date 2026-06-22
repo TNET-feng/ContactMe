@@ -13,7 +13,7 @@
 | WeChat      | dadatomo |            | Priority |
 | QQ          | 2982113910 |         |          |
 | DingTalk | lbfliubaofeng |         |         |
-| CSDN[^2] | @2302_76189356 | TNET-峰[^3] | No Priority |
+| CSDN[^2] | @2302_76189356 | TNET-峰[^3] | Secondary |
 
 [^2]:Chinese Software Developer Network
 [^3]:It is the same account as @2302_76189356
@@ -26,11 +26,11 @@
 
 [NetEase 163](mailto:lbfliubaofeng@163.com)
 
-[Google Gmail](mailto:lbfliubaofeng@gmail) <<<<No Priority
+[Google Gmail](mailto:lbfliubaofeng@gmail) <<<<Secondary
 
 
 
-## Issue <<<<No Priority
+## Issue <<<<Secondary
 [GitHub Issue](https://github.com/TNET-feng/TNET-feng/issues)
 
 [Atomgit Issue](https://atomgit.com/TNET_feng/ContactMe/issues)[^4]
