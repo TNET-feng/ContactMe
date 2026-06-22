@@ -19,14 +19,14 @@
 [^3]:It is the same account as @2302_76189356
 
 ##  E-mail
-[DingTalk Email](mailto:lbfliubaofeng@dingtalk.com)
+To [DingTalk Email](mailto:lbfliubaofeng@dingtalk.com)
 <<<<Priority
 
-[Microsoft Outlook](mailto:lbfliubaofeng@outlook.com)
+To [Microsoft Outlook](mailto:lbfliubaofeng@outlook.com)
 
-[NetEase 163](mailto:lbfliubaofeng@163.com)
+To [NetEase 163](mailto:lbfliubaofeng@163.com)
 
-[Google Gmail](mailto:lbfliubaofeng@gmail) <<<<Secondary
+To [Google Gmail](mailto:lbfliubaofeng@gmail) <<<<Secondary
 
 
 
