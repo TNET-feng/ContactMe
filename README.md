@@ -1,5 +1,5 @@
 <h1 align="center">Hello!👋👋👋</h1>
-<p align="center">You can contact me through the following ways😘😘</p>
+<p align="center">You can contact me through the following ways😘</p>
 
 > Chinese[^1]communication is preferred.
 
@@ -15,7 +15,7 @@
 | DingTalk | lbfliubaofeng |         |         |
 | CSDN[^2] | @2302_76189356 | TNET-峰[^3] | Secondary |
 
-[^2]:Chinese Software Developer Network
+[^2]:"Chinese Software Developer Network"Platform
 [^3]:It is the same account as @2302_76189356
 
 ##  E-mail
