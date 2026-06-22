@@ -1,7 +1,7 @@
 <h1 align="center">Hello!👋👋👋</h1>
 <p align="center">You can contact me through the following ways😘</p>
-> Explain the purpose and where you are before chatting with me
 
+> Explain the purpose and where you are before chatting with me
 > Chinese[^1]communication is preferred.
 
 [^1]:If you don't use Chinese, please tell me your language
