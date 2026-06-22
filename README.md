@@ -10,12 +10,12 @@
 ---
 
 ## Social Media <<<<Priority
-| Application | Account_1 | Account_2 | Remark |
-| :---------: | :-------: | :-------: | :----: |
+| Application | Account_1 | Account_2 | Remark | Link |
+| :---------: | :-------: | :-------: | :----: | :---: |
 | WeChat      | dadatomo |            | Priority |
 | QQ          | 2982113910 |         |          |
 | DingTalk | lbfliubaofeng |         |         |
-| CSDN[^2] | @2302_76189356 | TNET-峰[^3] | Secondary |
+| CSDN[^2] | @2302_76189356 | TNET-峰[^3] | Secondary | [](https://blog.csdn.net/2302_76189356?type=blog) |
 
 [^2]:"Chinese Software Developer Network"Platform
 [^3]:It is the same account as @2302_76189356
