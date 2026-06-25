@@ -40,6 +40,11 @@ To [Google Gmail](mailto:lbfliubaofeng@gmail) <<<<Secondary
 
 [^4]:Atomgit Gitcode Issue
 ___
+# BUT
+The tool I provide is offered "as is" and without any warranties, and I expressly disclaim all responsibility and liability for any actions you take, decisions you make, or outcomes that arise from your use of it—you are solely and entirely responsible for how you use the tool, the content you generate with it, and any consequences, legal or otherwise, that may follow; I do not guarantee its accuracy, reliability, or fitness for any specific purpose, and by using it, you agree to hold me harmless from any claims, damages, or losses incurred, acknowledging that this tool is not a substitute for professional advice and that your continued use constitutes your full acceptance of this disclaimer.
+
+---
+
 <p align="center">Thank you!😋</p>
 
 ---
